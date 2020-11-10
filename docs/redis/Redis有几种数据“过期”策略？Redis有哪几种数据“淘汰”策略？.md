@@ -212,9 +212,9 @@ LFU算法能更好的表示一个key被访问的热度。假如使用的是LRU�
 
 设置使用这两种淘汰策略跟前面讲的一样，不过要注意的一点是这两周策略只能在Redis4.0及以上设置，如果在Redis4.0以下设置会报错
 ### 如何选择淘汰策略
-allkeys-lru：若应用对缓存的访问符合幂律分布，也就是存在相对热点数据，或者不太清楚应用的缓存访问分布状况，可以选择allkeys-lru策略。
-allkeys-random：应用对于缓存key的访问概率相等，则可以使用这个策略。
-volatile-ttl：这种策略可以向Redis提示哪些key更适合被eviction。
+    （1）allkeys-lru：若应用对缓存的访问符合幂律分布，也就是存在相对热点数据，或者不太清楚应用的缓存访问分布状况，可以选择allkeys-lru策略。
+    （2）allkeys-random：应用对于缓存key的访问概率相等，则可以使用这个策略。
+    （3）volatile-ttl：这种策略可以向Redis提示哪些key更适合被eviction。
 
 另外，volatile-lru策略和volatile-random策略适合将一个Redis实例既应用于缓存和又应用于持久化存储的时候，然而我们也可以通过使用两个Redis实例来达到相同的效果，值得一提的是将key设置过期时间实际上会消耗更多的内存，因此我们建议使用allkeys-lru策略从而更有效率的使用内存。
 
