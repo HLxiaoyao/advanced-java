@@ -126,7 +126,7 @@ Redis的zrem方法是多线程多进程争抢任务的关键，它的返回值�
 
 ## 基于Stream类型的实现
 
-![](/images/redis/Redis Stream.png)
+![](/images/redis/RedisStream.png)
 
 Stream为redis 5.0后新增的数据结构。支持多播的可持久化消息队列，实现借鉴了Kafka设计。Redis Stream的结构如上图所示，它有一个消息链表，将所有加入的消息都串起来，每个消息都有一个唯一的ID和对应的内容。消息是持久化的，Redis重启后，内容还在。
 
