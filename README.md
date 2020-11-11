@@ -12,5 +12,7 @@
 * [Redis有几种数据“过期”策略？Redis有哪几种数据“淘汰”策略？](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/redis/Redis%E6%9C%89%E5%87%A0%E7%A7%8D%E6%95%B0%E6%8D%AE%E2%80%9C%E8%BF%87%E6%9C%9F%E2%80%9D%E7%AD%96%E7%95%A5%EF%BC%9FRedis%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%E6%95%B0%E6%8D%AE%E2%80%9C%E6%B7%98%E6%B1%B0%E2%80%9D%E7%AD%96%E7%95%A5%EF%BC%9F.md)
 * [如何使用Redis实现消息队列？
 ](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/redis/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Redis%E5%AE%9E%E7%8E%B0%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%EF%BC%9F.md)
+* [如何使用Redis实现分布式锁？
+](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/redis/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%EF%BC%9F.md)
 
 
