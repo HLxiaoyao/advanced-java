@@ -14,5 +14,6 @@
 ](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/redis/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Redis%E5%AE%9E%E7%8E%B0%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97%EF%BC%9F.md)
 * [如何使用Redis实现分布式锁？
 ](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/redis/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8Redis%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81%EF%BC%9F.md)
+* [Redis重要的健康指标？如何提高 Redis 命中率？](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/redis/Redis%E9%87%8D%E8%A6%81%E7%9A%84%E5%81%A5%E5%BA%B7%E6%8C%87%E6%A0%87%EF%BC%9F%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98%20Redis%20%E5%91%BD%E4%B8%AD%E7%8E%87%EF%BC%9F.md)
 
 
