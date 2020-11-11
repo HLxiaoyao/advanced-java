@@ -83,5 +83,5 @@ A、B两个线程发生并发显然是不被允许的，一般有两种方式解
 ### 集群脑裂
 集群脑裂指因为网络问题，导致Redis master节点跟slave节点和sentinel集群处于不同的网络分区，因为sentinel集群无法感知到master的存在，所以将slave节点提升为master节点，此时存在两个不同的master节点。Redis Cluster集群部署方式同理。当不同的客户端连接不同的master节点时，两个客户端可以同时拥有同一把锁。如下：
 
-![](/images/redis/rredis-lock-集群脑裂.png)
+![](/images/redis/redis-lock-集群脑裂.png)
 
