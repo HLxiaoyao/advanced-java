@@ -19,5 +19,6 @@
 
 
 ## [MyBatis](https://github.com/HLxiaoyao/advanced-java/tree/main/docs/Mybatis)
+* [MyBatis配置文件解析源码分析](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/Mybatis/MyBatis%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%A7%A3%E6%9E%90%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 
 
