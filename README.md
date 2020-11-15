@@ -25,5 +25,7 @@
 ## [RocketMQ](https://github.com/HLxiaoyao/advanced-java/tree/main/docs/RocketMQ)
 * [路由中心NameServer源码分析](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/%E8%B7%AF%E7%94%B1%E4%B8%AD%E5%BF%83NameServer%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
 * [路由中心NameServer总结](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/%E8%B7%AF%E7%94%B1%E4%B8%AD%E5%BF%83NameServer%E6%80%BB%E7%BB%93.md)
+* [RocketMQ消息发送源码分析](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/RocketMQ%E6%B6%88%E6%81%AF%E5%8F%91%E9%80%81%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md)
+* [RocketMQ批量消息发送源码分析](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/RocketMQ%E6%89%B9%E9%87%8F%E6%B6%88%E6%81%AF%E5%8F%91%E9%80%81.md)
 
 
