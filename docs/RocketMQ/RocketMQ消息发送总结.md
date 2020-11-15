@@ -1,7 +1,7 @@
 # RocketMQ消息发送总结
 ## Producer如何获取topic路由信息？如何自动创建topic？
 
-![](/iamges/RocketMQ/Producer缓存的路由信息.jpg)
+![](/images/RocketMQ/Producer缓存的路由信息.jpg)
 
 producer侧的路由同步有两种途径，途径一是在消息发送过程去同步获取路由信息；途径二是通过定时任务（每30s）同步获取路由信息。
 
