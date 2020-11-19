@@ -30,4 +30,4 @@
 * [RocketMQ消息发送总结](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/RocketMQ%E6%B6%88%E6%81%AF%E5%8F%91%E9%80%81%E6%80%BB%E7%BB%93.md)
 
 
-## [Netty](https://github.com/HLxiaoyao/advanced-java/tree/main/docs/RocketMQ)
+## [Netty](https://github.com/HLxiaoyao/advanced-java/tree/main/docs/Netty)
