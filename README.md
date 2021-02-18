@@ -29,6 +29,7 @@
 * [RocketMQ批量消息发送源码分析](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/RocketMQ%E6%89%B9%E9%87%8F%E6%B6%88%E6%81%AF%E5%8F%91%E9%80%81.md)
 * [RocketMQ消息发送总结](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/RocketMQ%E6%B6%88%E6%81%AF%E5%8F%91%E9%80%81%E6%80%BB%E7%BB%93.md)
 * [RocketMQ消息消费-消费者启动](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/RocktMQ%E6%B6%88%E6%81%AF%E6%B6%88%E8%B4%B9-%E6%B6%88%E8%B4%B9%E8%80%85%E5%90%AF%E5%8A%A8.md)
+* [RocketMQ消息消费-消息拉取](https://github.com/HLxiaoyao/advanced-java/blob/main/docs/RocketMQ/RocketMQ%E6%B6%88%E6%81%AF%E6%B6%88%E8%B4%B9-%E6%B6%88%E6%81%AF%E6%8B%89%E5%8F%96.md)
 
 
 
